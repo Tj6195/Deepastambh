@@ -1,0 +1,29 @@
+{
+  "_comment": "This data is a starting set and must be verified against real job descriptions before submission.",
+  "careers": {
+    "Data Analyst": {
+      "required_skills": ["Excel", "SQL Basics", "Statistics Fundamentals", "Python Basics", "Pandas", "Data Cleaning", "Data Visualization", "Power BI", "Advanced SQL"],
+      "skill_levels": {"Excel": "basic", "SQL Basics": "basic", "Statistics Fundamentals": "basic", "Python Basics": "basic", "Pandas": "intermediate", "Data Cleaning": "intermediate", "Data Visualization": "intermediate", "Power BI": "intermediate", "Advanced SQL": "advanced"},
+      "learning_resources": {"Excel": "Microsoft Excel official help documentation", "SQL Basics": "Kaggle Learn: Intro to SQL", "Statistics Fundamentals": "NPTEL: Statistics course", "Python Basics": "freeCodeCamp: Python course", "Pandas": "Kaggle Learn: Pandas", "Data Cleaning": "Kaggle Learn: Data Cleaning", "Data Visualization": "Kaggle Learn: Data Visualization", "Power BI": "Microsoft Power BI official documentation", "Advanced SQL": "Kaggle Learn: Advanced SQL"},
+      "estimated_weeks": {"Excel": 2, "SQL Basics": 2, "Statistics Fundamentals": 5, "Python Basics": 4, "Pandas": 3, "Data Cleaning": 2, "Data Visualization": 2, "Power BI": 3, "Advanced SQL": 3}
+    },
+    "Python Developer": {
+      "required_skills": ["Python Basics", "File and Error Handling", "Git and GitHub", "Data Structures in Python", "Object-Oriented Programming", "SQL and Databases", "APIs and Requests", "Testing with pytest", "Flask Web Framework", "Algorithms and Problem Solving"],
+      "skill_levels": {"Python Basics": "basic", "File and Error Handling": "basic", "Git and GitHub": "basic", "Data Structures in Python": "intermediate", "Object-Oriented Programming": "intermediate", "SQL and Databases": "intermediate", "APIs and Requests": "intermediate", "Testing with pytest": "intermediate", "Flask Web Framework": "advanced", "Algorithms and Problem Solving": "advanced"},
+      "learning_resources": {"Python Basics": "Python official documentation: The Python Tutorial", "File and Error Handling": "Python official documentation: The Python Tutorial", "Git and GitHub": "GitHub Docs: Get started", "Data Structures in Python": "freeCodeCamp: Data structures course", "Object-Oriented Programming": "Python official documentation: Classes", "SQL and Databases": "freeCodeCamp: SQL course", "APIs and Requests": "Requests library official documentation", "Testing with pytest": "pytest official documentation", "Flask Web Framework": "Flask official documentation", "Algorithms and Problem Solving": "freeCodeCamp: Algorithms course"},
+      "estimated_weeks": {"Python Basics": 4, "File and Error Handling": 1, "Git and GitHub": 1, "Data Structures in Python": 3, "Object-Oriented Programming": 3, "SQL and Databases": 3, "APIs and Requests": 2, "Testing with pytest": 2, "Flask Web Framework": 4, "Algorithms and Problem Solving": 6}
+    },
+    "Machine Learning Engineer": {
+      "required_skills": ["Python Basics", "NumPy and Pandas", "Statistics and Probability", "Linear Algebra and Calculus Basics", "Data Visualization", "Machine Learning with scikit-learn", "Model Evaluation and Tuning", "Feature Engineering", "Deep Learning Basics", "Model Deployment"],
+      "skill_levels": {"Python Basics": "basic", "NumPy and Pandas": "basic", "Statistics and Probability": "basic", "Linear Algebra and Calculus Basics": "basic", "Data Visualization": "intermediate", "Machine Learning with scikit-learn": "intermediate", "Model Evaluation and Tuning": "intermediate", "Feature Engineering": "intermediate", "Deep Learning Basics": "advanced", "Model Deployment": "advanced"},
+      "learning_resources": {"Python Basics": "Kaggle Learn: Python", "NumPy and Pandas": "Kaggle Learn: Pandas", "Statistics and Probability": "NPTEL: Probability and Statistics course", "Linear Algebra and Calculus Basics": "NPTEL: Linear Algebra course", "Data Visualization": "Kaggle Learn: Data Visualization", "Machine Learning with scikit-learn": "Kaggle Learn: Intro to Machine Learning", "Model Evaluation and Tuning": "Kaggle Learn: Intermediate Machine Learning", "Feature Engineering": "Kaggle Learn: Feature Engineering", "Deep Learning Basics": "Kaggle Learn: Intro to Deep Learning", "Model Deployment": "Streamlit official documentation"},
+      "estimated_weeks": {"Python Basics": 3, "NumPy and Pandas": 3, "Statistics and Probability": 5, "Linear Algebra and Calculus Basics": 6, "Data Visualization": 2, "Machine Learning with scikit-learn": 4, "Model Evaluation and Tuning": 3, "Feature Engineering": 2, "Deep Learning Basics": 4, "Model Deployment": 2}
+    },
+    "Web Developer": {
+      "required_skills": ["HTML", "CSS", "JavaScript Basics", "Git and GitHub", "Responsive Design", "DOM and Browser Events", "React", "SQL and Databases", "REST APIs", "Node.js and Express"],
+      "skill_levels": {"HTML": "basic", "CSS": "basic", "JavaScript Basics": "basic", "Git and GitHub": "basic", "Responsive Design": "intermediate", "DOM and Browser Events": "intermediate", "React": "intermediate", "SQL and Databases": "intermediate", "REST APIs": "intermediate", "Node.js and Express": "advanced"},
+      "learning_resources": {"HTML": "MDN Web Docs: HTML", "CSS": "MDN Web Docs: CSS", "JavaScript Basics": "freeCodeCamp: JavaScript course", "Git and GitHub": "GitHub Docs: Get started", "Responsive Design": "freeCodeCamp: Responsive Web Design", "DOM and Browser Events": "MDN Web Docs: DOM", "React": "React official documentation", "SQL and Databases": "freeCodeCamp: SQL course", "REST APIs": "freeCodeCamp: APIs course", "Node.js and Express": "Node.js official documentation"},
+      "estimated_weeks": {"HTML": 1, "CSS": 3, "JavaScript Basics": 5, "Git and GitHub": 1, "Responsive Design": 2, "DOM and Browser Events": 2, "React": 5, "SQL and Databases": 3, "REST APIs": 2, "Node.js and Express": 4}
+    }
+  }
+}
